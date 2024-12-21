@@ -38,17 +38,21 @@ Programming with Mosh: [Youtube](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60h
 
 ### Resources for Numpy
 
-Numpy Tutorial - https://www.w3schools.com/python/numpy/default.asp
+Numpy Tutorial - [Numpy Official Website](https://numpy.org/doc/2.1/user/quickstart.html)
+
+
 
 ### Resources for Pandas
 
 Pandas Tutorial - https://youtu.be/vmEHCJofslg?si=1efKYTqQRdDECaNE
 
+Official Tutorials - https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html
+
 ### Resources for Matplotlib
 
 You can just look up what plot you want at that moment for matplotlib or 
 
-W3 schools - https://www.w3schools.com/python/matplotlib_intro.asp
+Official Tutorial - https://matplotlib.org/stable/tutorials/index.html
 
 ### Combined Resources
 
@@ -64,4 +68,11 @@ In this week, you're gonna work on the Multi-Bandit Problem from Sutton and Bart
 You're going to implement the greedy and $\epsilon$-greedy algorithms and observe how one is better than the other and make changes
 
 Read the Chapter in Sutton and Barto and implement the algorithms in the [work_on_bandits.ipynb](./Week%201/work_on_bandits.ipynb) file
+
+## Week 2:
+
+- The assignment in `Assignment_2.ipynb` is about simple modelling of some basic RL environment which is to help you understand the basic working of MDPs. Note that most problems we work with using RL always have a MDP working under the hood, which we may or may not(most of the times) know. We will explore this in later weeks
+
+- The second is an **optional** reading assignment, [here](./Week%202/Markov_chains.pdf) which you can read if you intreseted in understanding and modelling of **Markov chains** in detail. Note that it requires some basic understanding of **probability, expected value and ranodom variables** so its ok if you don't understand in the beginning. Although it is important that you google these terms to get a baisc idea if you don't know them , as it will be used frequently in RL.
+
 
